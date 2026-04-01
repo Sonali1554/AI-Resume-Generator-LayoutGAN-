@@ -31,21 +31,25 @@ An intelligent web application that generates professional resumes using AI-base
 
 ### 🔹 Web Interface
 
-![App UI](images/app_ui.png)
+
+<img width="1828" height="1029" alt="Screenshot 2026-04-01 122828" src="https://github.com/user-attachments/assets/c8347e15-2ff8-4c62-b48e-8fc26de19a8b" />
 
 ---
 
 ### 🔹 Generated Layout Visualization
 
-![Layout](images/layout.png)
+<img width="1830" height="1023" alt="Screenshot 2026-04-01 122846" src="https://github.com/user-attachments/assets/a685b95e-c31f-4955-b6ee-a7fa27999da7" />
+<img width="1401" height="912" alt="Screenshot 2026-04-01 122858" src="https://github.com/user-attachments/assets/f388a0ec-86c4-4506-b058-2d2dc4a2425a" />
 
----
 
 ### 🔹 Generated Resume Output
 
-![Resume](images/resume.png)
+
+<img width="1920" height="1200" alt="Screenshot (1072)" src="https://github.com/user-attachments/assets/76a9f437-b313-41e4-b8f1-1d440a4ecb4d" />
 
 ---
+<img width="1920" height="1200" alt="Screenshot (1073)" src="https://github.com/user-attachments/assets/9510298e-4305-485c-8fcb-9bc463874b9c" />
+
 
 ## ⚙️ How It Works
 
